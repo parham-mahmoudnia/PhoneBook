@@ -1,0 +1,17 @@
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\bin\Debug\net7.0\PhoneBookConsole.exe
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\bin\Debug\net7.0\PhoneBookConsole.deps.json
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\bin\Debug\net7.0\PhoneBookConsole.runtimeconfig.json
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\bin\Debug\net7.0\PhoneBookConsole.dll
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\bin\Debug\net7.0\PhoneBookConsole.pdb
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.csproj.AssemblyReference.cache
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.AssemblyInfoInputs.cache
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.AssemblyInfo.cs
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.csproj.CopyComplete
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.dll
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\refint\PhoneBookConsole.dll
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.pdb
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\PhoneBookConsole.genruntimeconfig.cache
+C:\Users\Parham\Desktop\PhoneBookConsole\PhoneBookConsole\obj\Debug\net7.0\ref\PhoneBookConsole.dll

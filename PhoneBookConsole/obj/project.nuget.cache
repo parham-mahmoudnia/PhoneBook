@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DciJjnRIKQX4MJnQQubcI9xyDxQ3EMhTDirKgGoiv+2qcIhTeEqjxz7L4WJTuRi5kBOKkncLAaIL0CixlYJ9QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Parham\\Desktop\\PhoneBookConsole\\PhoneBookConsole\\PhoneBookConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Parham\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
